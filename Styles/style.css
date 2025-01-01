@@ -25,44 +25,9 @@ header h1 a {
     font-size: 1.2em;
 }
 
-
-nav ul {
-    list-style-type: none;
-    display: flex;
-}
-
-nav li {
-    flex-direction: column;
-    margin: 0px;
-    font-size: 1.5em;
-    border-top: 7px solid #C9C9C9;
-    border-bottom: 7px solid #C9C9C9;
-    background-color: #D9D9D9;
-    padding: 10px;
-}
-
-nav li:first-child {
-    border-left: 7px solid #C9C9C9;
-}
-
-nav li {
-    border-right: 2px solid #C9C9C9;
-}
-
-nav li:last-child {
-    border-right: 7px solid #C9C9C9;
-}
-
-nav li a {
-    color: black;
-    text-decoration: none;
-    font-family: 'Indie Flower', serif;
-    transition: 2s;
-}
-
-nav li a:hover {
-    color: blue;
-    font-size: 1.2em;
+#my-image-id { 
+    position: relative; 
+    top: 5px; 
 }
 
 header h1 {
