@@ -49,9 +49,8 @@ p {
     font-size: 1.5em;
 }
 
-footer p {
-    font-size: 1em;
-    clear: both;
+main {
+    text-align: center;
 }
 
 #next {
@@ -95,31 +94,4 @@ footer p {
     p {
         clear: both;
     }
-}
-
-@media screen and (max-width: 740px) {
-    nav ul {
-        display: flex;
-        flex-direction: column;
-        width: 90vw;
-        
-        text-align: center;
-        justify-content: right;
-        padding-left: 0;
-        margin-left: 0;
-    }
-
-    nav li {
-        border-left: 7px solid #C9C9C9;
-        border-right: 7px solid #C9C9C9;
-        border-top: 0;
-    }
-
-    nav li:first-child{
-        border-top: 7px solid #C9C9C9;
-    }
-
-    
-
-
 }
