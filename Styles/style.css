@@ -30,6 +30,10 @@ header h1 a {
     top: 15px; 
 }
 
+#cuteMenorah {
+    float: left;
+}
+
 header h1 {
     font-family: 'Indie Flower', sans-serif;
 }
