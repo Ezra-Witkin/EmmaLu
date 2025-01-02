@@ -41,7 +41,7 @@ header h1 a {
 }
 
 #Emma {
-    float: right;    
+    justify-content: center;    
 }
 
 #EmmaLu{
