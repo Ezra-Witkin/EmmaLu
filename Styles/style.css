@@ -107,7 +107,10 @@ main {
         display: flex;
         flex-direction: column;
     }
-    
+
+    li{
+        text-align: center;
+    }
 
     p {
         clear: both;
