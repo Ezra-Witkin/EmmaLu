@@ -44,6 +44,10 @@ header h1 a {
     float: right;    
 }
 
+#EmmaLu{
+    max-width: 80vw;
+}
+
 header h1 {
     font-family: 'Indie Flower', sans-serif;
 }
